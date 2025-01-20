@@ -110,4 +110,4 @@ npm run start
 
 ## License
 
-openLRS is available as open source under the terms of the [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-clause).
+openLRS is available as open source under the terms of the [MIT License](https://opensource.org/license/mit).
